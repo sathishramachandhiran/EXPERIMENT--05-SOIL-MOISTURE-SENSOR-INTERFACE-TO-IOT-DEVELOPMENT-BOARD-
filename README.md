@@ -4,9 +4,8 @@
 ## Theory 
 #### Hardware Overview
 A typical soil moisture sensor consists of two parts.
-
-The Probe
-The sensor includes a fork-shaped probe with two exposed conductors that is inserted into the soil or wherever the moisture content is to be measured.
+1.The Probe
+2.The sensor includes a fork-shaped probe with two exposed conductors that is inserted into the soil or wherever the moisture content is to be measured.
 
 As previously stated, it acts as a variable resistor, with resistance varying according to soil moisture.
 ![image](https://github.com/vasanthkumarch/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/assets/36288975/00e1751d-44e6-41e3-b261-717a657861be)
